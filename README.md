@@ -9,7 +9,7 @@ The gesture volume control project develops a system that allows users to adjust
 
 1. Use the repository to run the program :
 
-   https://github.com/Shwetank-Chaudhary/GestureVolumeControl/blob/main/GestureVolumeControl.py
+   https://github.com/SunnySharma02/Gesture-Volume-Control/blob/main/GestureVolumeControl.py
 3. "HandTrackingModule.py" module have python code for tracking Hand movements.
 4. "GestureVolumeControl.py" is the main module which imports the "HandTrackingModule.py" to track Hand movements and map to the functionality of volume control of the system.
 
